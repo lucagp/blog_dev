@@ -2,7 +2,7 @@
 layout: page
 permalink: /articles/
 title: "Articles"
-description: "Posts &amp; diatribes. A collection of Michael Rose&rsquo;s thoughts, inspiration, mistakes, and other minutia."
+description: "Posts &amp; diatribes. A collection of Giuseppe Pittavini&rsquo;s thoughts."
 tags: [blog, articles, writing, thoughts]
 ads: true
 ---

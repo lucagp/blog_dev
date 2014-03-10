@@ -11,8 +11,6 @@ ads: true
 
 This is my personal website written and edited by me.
 
-For questions about this site, please contact Michael Rose at <michael@mademistakes>. All content provided is for informational purposes only. The writings and posts on this website are my own and don't necessarily represent the positions, strategies, or opinions of my employer or its subsidiaries. I make no representations as to the accuracy or completeness of any information found here or by following any links. I will not be liable for any errors or omissions in this information nor for the availability of this information. I will not be liable for any losses, injuries, or damages from the display or use of this information.
-
 ## Privacy Policy
 
 At MadeMistakes.com, the privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
@@ -76,7 +74,3 @@ Just like this website, my Disclosure Policy is a work in progress. As the reven
 All original content (ie: articles, blog posts, illustrations, artwork, photographs, code) available on Made Mistakes is released under a [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US) unless otherwise noted. Basically this means you are free to share, transmit, distribute, alter, transform, and build on my work just as long as you don't use it for commercial purposes $$$.
 
 ### Attribution
-
-If you're inclined to show credit, then a link back to the source article attributed to either [Made Mistakes](http://mademistakes.com) or [Michael Rose](http://mademistakes.com) is good enough for me. If you don't want to show credit, hey that's cool too. Just don't go stealing and passing my work off as your own.
-
-Your use of this website, in any and all forms, constitutes an acceptance of this Privacy Policy. This Privacy Policy is reviewed and revised from time to time. You will want to revisit it regularly.
