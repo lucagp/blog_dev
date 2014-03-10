@@ -1,0 +1,59 @@
+title:            Moving Forward
+tagline:          Coding
+description:      "Personal website of software developer Giuseppe Pittavini"
+logo:             site-logo.png
+disqus_shortname: pittavini
+# Your site's domain goes here. Leave localhost server or blank when working locally.
+url:              http://localhost:4000
+
+# Owner/author information
+owner:
+  name:           Giuseppe Pittavini
+  avatar:         michael-rose-photo.jpg
+  bio:            "Just another boring, tattooed, time traveling, designer hailing from Buffalo New York."
+  email:          giuseppe@pittavini.com
+  twitter:        "gpittavi"
+  instagram:
+  github:         "lucagp"
+  facebook:
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:
+
+feed:
+#http://feeds.feedburner.com/MadeMistakes
+
+google_analytics: UA-2011187-1
+google_verify: geapSKtvpBNDSfXVmF09E9CnaHGglbO61r4XgLZtEmo
+bing_verify: D81F4C18A6CB3018F64D7C827D953DFD
+alexa_verify: Y5DYjZ4VWlrQzBP5kcQJeOKLNas
+
+future:      true
+lsi:         false
+pygments:    true
+markdown:    kramdown
+# http://jekyllrb.com/docs/permalinks/
+permalink:   /:categories/:title/
+
+# Internal pages/posts to include in top navigation
+links:
+  - title: Articles
+    url: /articles/
+  - title: About
+    url: /about/
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: true
+
+  coderay:
+    coderay_line_numbers:
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "codekit-config.json", "Gemfile", "Gemfile.lock", "README.md", "node_modules", "Gruntfile.js", "package.json"]
